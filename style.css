@@ -1,0 +1,36 @@
+html {
+  background: url(img/pngtree-school-gym-flat-color-vector-illustration-image_78580.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body {
+  width: 700px;
+  margin: auto;
+  background: rgba(255, 255, 255, 0.7);
+  border: 1px;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#nba-logo {
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.img-questions {
+  width: 300px;
+}
+.correct-answer {
+  color: green;
+}
+
+.bottom {
+  text-align: center;
+  font-size: large;
+}
